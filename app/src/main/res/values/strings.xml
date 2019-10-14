@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">购物shop</string>
+    <string name="title_home">首页</string>
+    <string name="title_topic">专题</string>
+    <string name="title_category">分类</string>
+    <string name="title_shopping">购物车</string>
+    <string name="title_main">我的</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
