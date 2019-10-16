@@ -7,6 +7,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.view.MenuItem;
 import android.widget.FrameLayout;
+import android.widget.Toast;
 
 import com.example.douwenxuan.base.BaseActivity;
 import com.example.douwenxuan.view.category.CategoryFragment;
@@ -114,6 +115,7 @@ public class MainActivity extends BaseActivity {
 
     @Override
     public void showErrMsg(String err) {
+        Toast.makeText(this,"",Toast.LENGTH_LONG).show();
 
     }
 
